@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "278729868577",
+    "firebase_url": "https://shirditaxi-57b5c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "shirditaxi-57b5c",
+    "storage_bucket": "shirditaxi-57b5c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278729868577:android:5afa51bcdc9dff14272a60",
+        "android_client_info": {
+          "package_name": "com.example.admin_panel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278729868577-vnacbhrcb9lknkb2d3hipm9cona1u500.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin_panel",
+            "certificate_hash": "d225dfd5a51327a234ce3d7bb8b1431646b0ce8f"
+          }
+        },
+        {
+          "client_id": "278729868577-b79ebmdfo5fnedc1nb6fg60b91cdgl6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBFjbsFNm-vj_v2jLbteRsLshQLbSX0hY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278729868577-b79ebmdfo5fnedc1nb6fg60b91cdgl6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278729868577:android:885224c0c2ff54c0272a60",
+        "android_client_info": {
+          "package_name": "com.example.shirditaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278729868577-br1daaud65h0d8a5g4jcpecdk7eq7q76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shirditaxi",
+            "certificate_hash": "d225dfd5a51327a234ce3d7bb8b1431646b0ce8f"
+          }
+        },
+        {
+          "client_id": "278729868577-b79ebmdfo5fnedc1nb6fg60b91cdgl6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBFjbsFNm-vj_v2jLbteRsLshQLbSX0hY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278729868577-b79ebmdfo5fnedc1nb6fg60b91cdgl6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
